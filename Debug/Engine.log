@@ -1,2 +1,9 @@
-﻿  ModuleRenderExercise.cpp
-  Engine.vcxproj -> C:\Users\tonifj\Desktop\Engine_Master\Debug\EngineMaster.exe
+﻿  Application.cpp
+  log.cpp
+  Main.cpp
+  ModuleInput.cpp
+  ModuleRender.cpp
+  ModuleRenderExercise.cpp
+  ModuleWindow.cpp
+  Generando código...
+  Engine.vcxproj -> C:\Users\tonifj\Documents\GitHub\AwesomeEngine\Debug\EngineMaster.exe
